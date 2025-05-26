@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # from odoo import models, fields, api
-
+# f
 
 # class gestion_transportes(models.Model):
 #     _name = 'gestion_transportes.gestion_transportes'
